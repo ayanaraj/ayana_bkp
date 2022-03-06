@@ -1,0 +1,9 @@
+home\caterer\service\menuservice\Controller\MenuController.class
+home\caterer\service\menuservice\Controller\MenuDTO.class
+home\caterer\service\menuservice\Model\Menu.class
+home\caterer\service\menuservice\Model\Item.class
+home\caterer\service\menuservice\Repository\MenuRepository.class
+home\caterer\service\menuservice\Service\MenuServiceImpl.class
+home\caterer\service\menuservice\Controller\ItemDTO.class
+home\caterer\service\menuservice\Service\MenuService.class
+home\caterer\service\menuservice\MenuServiceApplication.class
